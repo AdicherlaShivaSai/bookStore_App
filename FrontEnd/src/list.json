@@ -1,0 +1,57 @@
+[
+    {
+        "id":1,
+        "name": "Story Book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/open-book-forest-theme-white-background_1308-96490.jpg?t=st=1731738978~exp=1731742578~hmac=e9e4cdc74e0ed2838cdaed83ac08e45386d5774bad3298d5569f32eceb59c185&w=740"
+    },
+    {    "id":2,
+        "name": "Maths Book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image":"https://img.freepik.com/free-vector/isometric-math-elements-background_23-2148157687.jpg?t=st=1732002324~exp=1732005924~hmac=4a92169b3afcdd82006c1c185a6b589431b4cc187a21a2bec7cb03ea08d8ae54&w=740"
+    },
+    {
+        "id":3,
+        "name": "Science Book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/science-lab-objects_23-2148488312.jpg?t=st=1732002910~exp=1732006510~hmac=d75ccfb9560b694d649d2335cd6fa3e21ccf86fe196d67026b8be6e6232e5895&w=740"    
+    },
+    {
+        "id":4,
+        "name": "Social Book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/globe-earth-planet-books-isolated-white-background-back-school-day-knowledge-school-supplies-teachers-day-symbol-school-university-education-concept_575670-163.jpg?t=st=1732002443~exp=1732006043~hmac=f8dde608057530b7514ad29e28773106a0d53ac719a986fee26dc3291ac6733c&w=740"   
+    },
+    {
+        "id":5,
+        "name": "Comedy Book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/colored-background-man-laughing_23-2147631736.jpg?t=st=1732003144~exp=1732006744~hmac=9d4ce7e0aabdce9b76282255a733e1f03322dc1252bde36f782055f63979b1b1&w=740"    
+    },
+    {
+        "id":6,
+        "name": "Geography Book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/geography-teacher-explaining-lesson-pupil-woman-with-pointer-girl-planet-model-flat-illustration_74855-10671.jpg?t=st=1732002795~exp=1732006395~hmac=69361a10acbc9d15bb3900b1a1605ddedd4e9ed2f52618206b04b694d6b13e34&w=740"    
+    },
+    {
+        "id":7,
+        "name": "Inspiring Book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/positive-lettering-message-orange-watercolor-stain_23-2148334542.jpg?t=st=1732002856~exp=1732006456~hmac=c0816fcb07018a6828c6c9e1df02d17b924ce4ea09bd92d02a35401462823ff2&w=740"    
+    }
+]
